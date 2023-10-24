@@ -12,6 +12,7 @@ namespace Lab_9
 {
     public partial class Form2 : Form
     {
+        //Здесь интерфейс
         interface IMovable
         {
 
@@ -49,6 +50,7 @@ namespace Lab_9
 
         private void button1_Click(object sender, EventArgs e)
         {
+            // Видоизменяем дизайн кнопок во время операциии
             button1.BackColor = Color.Red;
             button6.BackColor = Color.Green;
 
@@ -63,6 +65,7 @@ namespace Lab_9
 
         private void button2_Click(object sender, EventArgs e)
         {
+            // Видоизменяем дизайн кнопок во время операциии
             button2.BackColor = Color.Yellow;
             button5.BackColor = Color.Yellow;
 
@@ -133,6 +136,7 @@ namespace Lab_9
 
         private void button7_Click(object sender, EventArgs e)
         {
+            // Переходим на другую форму
             Form3 form3 = new Form3();
             form3.ShowDialog();
         }
