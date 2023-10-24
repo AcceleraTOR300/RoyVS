@@ -63,6 +63,8 @@ namespace Lab_9
 
             object IAccount.Name { get { return Name; } set { } }
 
+            //операции, которые будут нужны в дальнейшемц
+
             public void Put(int sum)
             {
                 _sum += sum;
@@ -96,9 +98,10 @@ namespace Lab_9
         {
             InitializeComponent();
         }
-
+        //начальные значения
         IAccount account = new Client("Борис", 2938);
 
+        // конвертируем данные для нужных операциий
         private void button1_Click(object sender, EventArgs e)
         {
             account.Put(Convert.ToInt32(textBox1.Text));
