@@ -1,0 +1,24 @@
+D:\Program\2 SEMESTR\Lab_9\Lab_9\bin\Debug\Lab_9.exe.config
+D:\Program\2 SEMESTR\Lab_9\Lab_9\bin\Debug\Lab_9.exe
+D:\Program\2 SEMESTR\Lab_9\Lab_9\bin\Debug\Lab_9.pdb
+D:\Program\2 SEMESTR\Lab_9\Lab_9\obj\Debug\Lab_9.csprojAssemblyReference.cache
+D:\Program\2 SEMESTR\Lab_9\Lab_9\obj\Debug\Lab_9.Form1.resources
+D:\Program\2 SEMESTR\Lab_9\Lab_9\obj\Debug\Lab_9.Properties.Resources.resources
+D:\Program\2 SEMESTR\Lab_9\Lab_9\obj\Debug\Lab_9.csproj.GenerateResource.cache
+D:\Program\2 SEMESTR\Lab_9\Lab_9\obj\Debug\Lab_9.csproj.CoreCompileInputs.cache
+D:\Program\2 SEMESTR\Lab_9\Lab_9\obj\Debug\Lab_9.exe
+D:\Program\2 SEMESTR\Lab_9\Lab_9\obj\Debug\Lab_9.pdb
+D:\Program\2 SEMESTR\Lab_9\Lab_9\obj\Debug\Lab_9.Form2.resources
+D:\Program\2 SEMESTR\Lab_9\Lab_9\obj\Debug\Lab_9.Form3.resources
+D:\Алгоритмизация и прораммирование\Program\2 SEMESTR\Lab_9\Lab_9\bin\Debug\Lab_9.exe.config
+D:\Алгоритмизация и прораммирование\Program\2 SEMESTR\Lab_9\Lab_9\bin\Debug\Lab_9.exe
+D:\Алгоритмизация и прораммирование\Program\2 SEMESTR\Lab_9\Lab_9\bin\Debug\Lab_9.pdb
+D:\Алгоритмизация и прораммирование\Program\2 SEMESTR\Lab_9\Lab_9\obj\Debug\Lab_9.csprojAssemblyReference.cache
+D:\Алгоритмизация и прораммирование\Program\2 SEMESTR\Lab_9\Lab_9\obj\Debug\Lab_9.Form1.resources
+D:\Алгоритмизация и прораммирование\Program\2 SEMESTR\Lab_9\Lab_9\obj\Debug\Lab_9.Form2.resources
+D:\Алгоритмизация и прораммирование\Program\2 SEMESTR\Lab_9\Lab_9\obj\Debug\Lab_9.Form3.resources
+D:\Алгоритмизация и прораммирование\Program\2 SEMESTR\Lab_9\Lab_9\obj\Debug\Lab_9.Properties.Resources.resources
+D:\Алгоритмизация и прораммирование\Program\2 SEMESTR\Lab_9\Lab_9\obj\Debug\Lab_9.csproj.GenerateResource.cache
+D:\Алгоритмизация и прораммирование\Program\2 SEMESTR\Lab_9\Lab_9\obj\Debug\Lab_9.csproj.CoreCompileInputs.cache
+D:\Алгоритмизация и прораммирование\Program\2 SEMESTR\Lab_9\Lab_9\obj\Debug\Lab_9.exe
+D:\Алгоритмизация и прораммирование\Program\2 SEMESTR\Lab_9\Lab_9\obj\Debug\Lab_9.pdb
