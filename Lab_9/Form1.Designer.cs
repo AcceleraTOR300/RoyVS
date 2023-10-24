@@ -132,7 +132,7 @@
             // 
             // button6
             // 
-            this.button6.Location = new System.Drawing.Point(901, 494);
+            this.button6.Location = new System.Drawing.Point(868, 398);
             this.button6.Name = "button6";
             this.button6.Size = new System.Drawing.Size(201, 23);
             this.button6.TabIndex = 9;
@@ -144,6 +144,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.ClientSize = new System.Drawing.Size(1189, 576);
             this.Controls.Add(this.button6);
             this.Controls.Add(this.label4);
